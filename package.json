@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "chalk-image": "^1.0.3",
+    "image-pixels": "^2.2.2",
+    "press-any-key": "^0.1.1",
+    "print-image": "^1.0.1",
+    "readline-sync": "^1.4.10",
+    "terminal-image": "^0.2.0",
+    "typewriter-effect": "^2.12.2"
+  }
+}
